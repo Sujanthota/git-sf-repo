@@ -1,4 +1,4 @@
--- Create Schemas required
+-- Create Schemas required 
 CREATE SCHEMA IF NOT EXISTS EMP.hrdata;
 
 -- Create Tables
